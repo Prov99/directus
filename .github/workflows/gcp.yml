@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       IMAGE_NAME: directus
-      PROJECT_ID: prov-99-346015
+      PROJECT_ID: prov99-com
 
     steps:
     - name: Checkout
