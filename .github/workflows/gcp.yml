@@ -7,6 +7,9 @@ jobs:
   build-push-gcr:
     name: Build and Push to GCP
     runs-on: ubuntu-latest
+    env:
+      IMAGE_NAME: directus
+      PROJECT_ID: prov-99
 
     steps:
     - name: Checkout
