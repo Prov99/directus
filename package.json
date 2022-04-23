@@ -12,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "directus": "^9.8.0"
+    "directus": "^9.9.1"
   }
 }
